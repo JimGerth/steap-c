@@ -1,5 +1,6 @@
 #include <stdlib.h>
 
+#define __TASK_INTERNAL__
 #include "task.h"
 
 

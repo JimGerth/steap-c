@@ -3,6 +3,7 @@
 #include <stdbool.h>
 #include <pthread.h>
 
+#define __QUEUE_INTERNAL__
 #include "queue.h"
 
 
